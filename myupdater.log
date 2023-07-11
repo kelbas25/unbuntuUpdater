@@ -1,0 +1,28 @@
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Calculating upgrade...
+The following packages were automatically installed and are no longer required:
+  chromium-codecs-ffmpeg-extra docker-scan-plugin gstreamer1.0-vaapi
+  libflashrom1 libftdi1-2 libgstreamer-plugins-bad1.0-0 libllvm13
+  libnvidia-cfg1-525 libnvidia-common-525 libnvidia-decode-525
+  libnvidia-egl-wayland1 libnvidia-encode-525 libnvidia-extra-525
+  libnvidia-fbc1-525 libnvidia-gl-525 libopts25 libxnvctrl0
+  nvidia-compute-utils-525 nvidia-kernel-source-525 nvidia-settings
+  nvidia-utils-525 screen-resolution-extra sntp xserver-xorg-video-nvidia-525
+Use 'sudo apt autoremove' to remove them.
+Get more security updates through Ubuntu Pro with 'esm-apps' enabled:
+  vlc-plugin-qt libvlc5 vlc-data libvlccore9 vlc vlc-bin libjs-jquery-ui
+  vlc-l10n libavdevice58 libpostproc55 vlc-plugin-samba php-twig libavcodec58
+  vlc-plugin-notify libavutil56 libswscale5 vlc-plugin-access-extra
+  vlc-plugin-skins2 vlc-plugin-video-splitter libswresample3
+  vlc-plugin-video-output libavformat58 libvlc-bin vlc-plugin-base
+  vlc-plugin-visualization libavfilter7
+Learn more about Ubuntu Pro at https://ubuntu.com/pro
+The following packages have been kept back:
+  gir1.2-adw-1 gjs gnome-remote-desktop gnome-shell gnome-shell-common
+  initramfs-tools initramfs-tools-bin initramfs-tools-core libadwaita-1-0
+  libgjs0g linux-modules-nvidia-525-generic-hwe-22.04 nvidia-kernel-common-525
+  ubuntu-advantage-tools
+0 upgraded, 0 newly installed, 0 to remove and 13 not upgraded.
+2023-07-11 12:38:43: Ubuntu update succeeded.
