@@ -7,7 +7,7 @@ Clone the repository or download the myupdater.sh script to your local machine.
     git clone https://github.com/kelbas25/ubuntuUpdater
 Change to the directory where the script is located.
 
-    cd myupdater
+    cd ubuntuUpdater
 
 ## Usage
 
